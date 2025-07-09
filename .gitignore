@@ -1,0 +1,27 @@
+# Build artifacts
+build/
+*.o
+*.p1
+*.hex
+*.elf
+*.map
+*.a
+*.so
+*.dylib
+
+# Log files
+*.log
+
+# Editor-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment variables
+.env
+
+# AI assistant files
+.claude/
+CLAUDE.md
+GEMINI.md
