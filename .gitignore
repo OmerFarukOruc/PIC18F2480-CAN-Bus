@@ -1,0 +1,125 @@
+# Claude AI assistant files
+CLAUDE.md
+CLAUDE2.md
+.claude/
+
+# Build directories
+_build/
+out/
+build/
+cmake-build-*/
+
+# MPLAB X IDE files
+*.X/
+nbproject/
+nbbuild/
+dist/
+disassembly/
+funclist
+*.log
+*.o
+*.d
+*.pre
+*.p1
+*.lst
+*.sym
+*.obj
+*.hex
+*.elf
+*.cof
+*.map
+*.mem
+*.xml
+memoryfile.xml
+*.hxl
+*.mcp
+*.mcw
+*.mcs
+*.workspace
+*.component
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps/
+*.ninja
+build.ninja
+rules.ninja
+.generated/
+
+# Compiler outputs
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+
+# Debug files
+*.pdb
+*.ilk
+*.dSYM/
+
+# IDE specific files
+.vscode/
+.vs/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*~
+
+# MPLAB specific temporary files
+*.mptags
+*.taghl
+*.err
+*.cce
+*.ccep
+
+# XC8 Compiler specific
+*.cmf
+*.rlf
+*.p1
+*.d
+*.pre
+*.i
+*.lst
+*.sym
+*.hxl
+*.cod
+*.sdb
+
+# Production files (uncomment if you don't want to track production builds)
+# *.production.*
+# *.production/
+
+# Simulation files
+*.msym
+*.mcs
+*.mcsx
+
+# Documentation build outputs
+html/
+latex/
+
+# Package manager directories
+node_modules/
